@@ -1,1 +1,2 @@
-# Lab9
+# week7CodeAlong
+For our coding exercise
